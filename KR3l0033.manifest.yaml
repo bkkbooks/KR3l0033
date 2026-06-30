@@ -1,0 +1,52 @@
+canonical_identifier: bkk:krp/KR3l0033/v1
+canonical_location: https://kanripo.org/bkk/KR3l0033/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 嘉祐雜誌
+  date: '2015-08-24 23:37:51.860875'
+  source:
+    repository: kanripo
+    path: KR3l0033
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR3l0033_000.yaml, hash: 'sha256:3c36469897631816e2a2cfeeb1da2b594cc716999a06764ee9cc10be580a0074'}
+  - {seq: 1, filename: KR3l0033_001.yaml, hash: 'sha256:9665c4bfd6fcfcd3892fcdd8f7d687bc0f0f610b61abd322fb88db10a55716f7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3l0033_000.markers.yaml, hash: 'sha256:0f8e61b6fa6b2485220ef56cd33aeadfe899952a58c430663ce032191fb8e422'}
+  - {seq: 1, role: markers, filename: assets/KR3l0033_001.markers.yaml, hash: 'sha256:93ad061028bb134fa75cb33d53f237a530f9112f01df6f572bf46c1a61ecdf07'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3l0033_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 428
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3l0033_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 10570
+  label: 嘉祐雜誌
+  type: section
+  level: 1
+hash: sha256:d813deb603c23f8722ca732f4709fba4d8c7c446de5e1b7a12eefa994d9493ec
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
