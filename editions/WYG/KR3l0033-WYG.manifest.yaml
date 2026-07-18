@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR3l0033_000-WYG.yaml, hash: 'sha256:c516b6350394c95055cce3b31cd7d567c1869500b6940297fb0ef11d412e54a2'}
   - {seq: 1, filename: KR3l0033_001-WYG.yaml, hash: 'sha256:8cc6944bc72ba7c49ac6d709111ff1b8b2c275f8f282029b83e6e88322c50eff'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3l0033_000-WYG.markers.yaml, hash: 'sha256:c18097b742e57893833f187e4aa49773673b08ce278da4f94962f7b1741c53a4'}
-  - {seq: 1, role: markers, filename: assets/KR3l0033_001-WYG.markers.yaml, hash: 'sha256:f5161969972bb0b503b3077b5ee5abc6b12d56931f2a76b8afca5437ddec523d'}
+  - {seq: 0, role: markers, filename: assets/KR3l0033_000-WYG.markers.yaml, hash: 'sha256:1dba0944ed81d4fec0d9a8f6e91faf8a9a2e280d08df4ca7a7ad223d23c41e21'}
+  - {seq: 1, role: markers, filename: assets/KR3l0033_001-WYG.markers.yaml, hash: 'sha256:29374243fea1f261713e0e7d49cb74361957427aec3996ce6375443f121027d4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 嘉祐雜誌
   type: section
   level: 1
-hash: sha256:21400876ba6b849629dacde3e250fa31d30f4fa1097ac36461a27a062c55373f
+hash: sha256:1c423d6872454594ced6fe103534f3281bea9b6e7bf34edd5e451a89242d82b3

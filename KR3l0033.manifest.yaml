@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3l0033_000.yaml, hash: 'sha256:7e6a7c8eb8a212cc09bfd38c653e84052298dbaebed00922c8cafe9b40b504ab'}
   - {seq: 1, filename: KR3l0033_001.yaml, hash: 'sha256:05fe37fadb4c661885344437d80d66dca250434c7aa5579d458ee6aea9aed0f0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3l0033_000.markers.yaml, hash: 'sha256:ccd24641e0ebd46d976d5491a65e75b98e925a748aa92ab3b9075c469d477fbf'}
-  - {seq: 1, role: markers, filename: assets/KR3l0033_001.markers.yaml, hash: 'sha256:f401051eb26180d4f0525c75bbabb2757374cfaf775cd514f7b33277c8ffcf00'}
+  - {seq: 0, role: markers, filename: assets/KR3l0033_000.markers.yaml, hash: 'sha256:cdc11733a83745a615a12d42496abb43203e11dff16bf18c69c3e302041cf7bd'}
+  - {seq: 1, role: markers, filename: assets/KR3l0033_001.markers.yaml, hash: 'sha256:c05586e4cc289b08c255766797f0dc61d586a14544d1d5bf942d4daeebac012f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 嘉祐雜誌
   type: section
   level: 1
-hash: sha256:680e6dfe6dc62f17b8b29e3c1f36afb31dd2880ee07419c081294c53bfe3464b
+hash: sha256:ba072fb9b20c2fcb2aff35e97a71cb8bbbd291881e63102b7c899d2babdf9982
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
